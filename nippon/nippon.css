@@ -1,0 +1,124 @@
+.continer{
+    
+}
+
+
+.header{
+    width: 100%;
+    height: 119px;
+    background-color: #00308C;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    
+}
+.logo{
+    width:50%;
+    padding: 40px;
+    text-align: center;
+   color: aliceblue;
+   display: inline;
+   
+}
+.login{
+    width:50%;
+    display: inline;
+}
+.color{
+    color: aliceblue;
+}
+body{
+    margin: 0%;
+}
+
+.img1{
+    width: 100%;
+}
+.point{
+    display: block;
+    width: 100%;
+    height: 500%;
+    display: inline;
+    flex-direction: column;
+    background-color: firebrick;
+    float: left;
+    
+}
+.img3{
+    width: 100%;
+    background-color: crimson;
+}
+
+h2.line{
+    padding: 39px;
+    text-align: center;
+    font-size: 50px;
+    background-color:firebrick;
+    color: wheat;
+    float: right;
+}
+.end{
+display: grid;
+height: 50%;
+background-color: aquamarine;
+font-size: 30px;
+grid-template-columns:600px;
+row-gap:37px; 
+}
+.more{
+    position: absolute;
+    left: 200px;
+    width: 79px;
+    height: 20px;
+    border-radius: 8px;
+}
+.child{
+    background-color: aliceblue;
+    border: 10px solid whitesmoke;
+}
+.final1{
+    display: inline;
+    padding-left: 650px;
+    
+    
+    
+}   
+.content{
+    display: flex;
+}
+
+#boi{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(211, 243, 26); 
+    position:absolute;
+    left: 800px;
+    border-radius: 4px;
+    
+    }
+.boi1{
+    text-align: center;
+    
+      
+
+}
+.fill{
+    height: 20px;
+width: 237px;
+font-size: 17px;
+
+margin-left: 150px;
+margin-top: 28px;
+border-radius: 7px;
+}
+
+.boi2{
+    width: 100%;
+    height: 700px;
+    background-color: aqua;
+    background-image: url(https://www.nipponpaint.co.in/wp-content/uploads/2023/03/nippon-paint-weatherbond-pro-actor-aswinkumar.jpg);
+    margin-top: 20px;
+}
+
+    
+    
